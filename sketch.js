@@ -66,8 +66,6 @@ function Dibujar()
     }
 }
 
-//Contar vecinos
-
 //Crear nueva generación
 function NuevaGeneración() {
 
