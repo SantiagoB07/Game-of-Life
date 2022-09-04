@@ -59,7 +59,7 @@ function Dibujar()
 
       if (arreglo[i][j] == 1)
           {
-          fill(255, 0, 0);
+          fill("red");
           rect(x, y, dimension, dimension);
           }
       }
